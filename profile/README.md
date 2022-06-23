@@ -9,3 +9,10 @@ Once you have had a look through this profile, you can head to my [main profile]
 |Repository Name|Description|Keywords|
 |:----|:----|:----|
 |[tutorial](https://github.com/topheruk-haskell/tutorial)|Common functions|`tutorial`|
+
+
+## Forked
+
+|Repository Name|Description|Keywords|
+|:----|:----|:----|
+|[applied fp course](https://github.com/topheruk-haskell/applied-fp-course)|Haskell learning tool|`functional`, `mondad`, `functor`|
